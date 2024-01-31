@@ -1,0 +1,12 @@
+body {
+    background-color: aquamarine;
+}
+.navbar-brand img {
+    max-height: 40px; /* Adjust height as needed */
+    width: auto;
+    margin-right: 10px; /* Add some spacing if needed */
+}
+.title-container {
+    text-align: center;
+    margin-top: 100px;
+}
